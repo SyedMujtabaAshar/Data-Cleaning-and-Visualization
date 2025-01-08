@@ -1,0 +1,12 @@
+Summary of Insights
+
+1-Survival Rates by Class: The bar chart shows that passengers in first class had a higher
+survival rate compared to those in second and third class.
+
+2-Age Distribution: The histogram indicates that a majority of passengers were between 20
+and 40 years old, with fewer children and older adults.
+
+3-Correlation Insights: The heatmap reveals a strong negative correlation between Pclass
+and Survived, indicating that higher-class passengers were more likely to survive. There’s
+also a positive correlation between SibSp and Parch, suggesting that families were often
+traveling together.
